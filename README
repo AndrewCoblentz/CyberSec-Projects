@@ -1,0 +1,39 @@
+# Penetration Testing of Tune Store Web Application
+
+## Introduction
+
+This project involves a comprehensive penetration test of the Tune Store web application to identify and analyze security vulnerabilities.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Key Findings](#key-findings)
+- [Tools Used](#tools-used)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Disclaimer](#disclaimer)
+
+## Key Findings
+
+- **SQL Injection**
+- **Cross-Site Scripting (XSS)**
+- **Cross-Site Request Forgery (CSRF)**
+- **Broken Access Control**
+- **Clickjacking**
+- **ETC**
+
+## Tools Used
+
+- OWASP ZAP
+- Manual Testing Techniques
+- Web Browsers (with Developer Tools)
+
+## Skills Demonstrated
+
+- Vulnerability Identification and Exploitation
+- Security Risk Analysis
+- Reporting and Documentation
+- Knowledge of OWASP Top 10 Vulnerabilities
+
+## Disclaimer
+
+This project was conducted as part of an educational course on penetration testing. All tests were performed in a controlled environment with permission. No unauthorized testing was conducted.
